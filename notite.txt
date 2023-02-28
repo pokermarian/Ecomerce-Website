@@ -1,0 +1,5 @@
+prima data cream react aplication: npx create-react-app my-app (o numesc cum vreau eu)
+apoi te duci in folderul creat
+si dai comanda npx create-react-app client si aia e
+apoi iesi si intri cu npm start 
+sau cu nodemon si se updateaza singur mereu
